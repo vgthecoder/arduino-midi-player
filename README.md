@@ -9,6 +9,6 @@ Once downloaded and installed, change the MIDI IN option to your midi output dev
 
 ~
 If one isn't listed, use [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html).
-Open loopMIDI and click on the plus sign. Select that midi port you just created, and select it Hairless MIDI<->Serial Bridge's MIDI In dropdown. You can now select that output port in your midi software.
+Open loopMIDI and click on the plus sign. Select that midi port you just created, and select it in [Hairless MIDI<->Serial Bridge](https://projectgus.github.io/hairless-midiserial/)'s MIDI In dropdown. You can now select that output port in your midi software.
 
 ![midiloop](https://i.ibb.co/CBfkc5s/s.jpg)
