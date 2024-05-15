@@ -25,7 +25,7 @@ Copy and paste the contents of the index.ino file into Arduino IDE. Remember to 
 Find the line `#define MIDITRK 1` and change the number 1, to your desired midi channel. (1-16)
 
 ### Changing the audio out pin
-Find the line `#define speakerPin 3 // Audio output pin (Must be a PWM Pin)` and change the three to your desired output pin, that [supports pwm](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/). 
+Find the line `#define speakerPin 3` and change the three to your desired output pin, that [supports pwm](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/). 
 
 ## Questions?
 Feel free to ask me!
