@@ -1,7 +1,7 @@
 # arduino-midi-player
 Plays a single note from a midi serial input.
 ## Getting Started
-## Software
+### Software
 You will need [Hairless MIDI<->Serial Bridge](https://projectgus.github.io/hairless-midiserial/).
 Once downloaded and installed, change the MIDI IN option to your midi output device.
 
