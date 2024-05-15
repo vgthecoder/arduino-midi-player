@@ -13,6 +13,10 @@ Open loopMIDI and click on the plus sign. Select that midi port you just created
 
 ![midiloop](https://i.ibb.co/CBfkc5s/s.jpg)
 
+## Wiring
+Connect one of the speaker pins to pin 3 (default), connect the other pin to GND.
+![Wokwi Wiring Diagram](https://i.ibb.co/dQKPyF0/w.png)
+
 ## Code
 Copy and paste the contents of the index.ino file into Arduino IDE. Remember to download the midi library using the arduino libraries tab.
 ### Changing the midi input channel
