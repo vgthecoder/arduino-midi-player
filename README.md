@@ -21,10 +21,12 @@ Connect one of the speaker pins to pin 3 (default), connect the other pin to GND
 ### Code
 Copy and paste the contents of the index.ino file into Arduino IDE. Remember to download the midi library using the arduino libraries tab.
 
-### Changing the midi input channel
+### Optional Code Modifications
+
+Changing the midi input channel
 Find the line `#define MIDITRK 1` and change the number 1, to your desired midi channel. (1-16)
 
-### Changing the audio out pin
+Changing the audio out pin
 Find the line `#define speakerPin 3` and change the three to your desired output pin, that [supports pwm](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/). 
 
 ## Questions?
