@@ -21,6 +21,9 @@ Connect one of the speaker pins to pin 3 (default), connect the other pin to GND
 
 ## Code
 Copy and paste the contents of the index.ino file into Arduino IDE. Remember to download the midi library using the arduino libraries tab.
+
+## Questions?
+Feel free to ask me!
 ### Changing the midi input channel
 Find the line `#define MIDITRK 1` and change the number 1, to your desired midi channel. (1-16)
 
