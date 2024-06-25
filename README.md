@@ -9,7 +9,7 @@ Once downloaded and installed, change the MIDI IN option to your midi output dev
 ![hairlessmidi>serialbridge](https://i.ibb.co/rGrYbh9/r.png)
 
 If one isn't listed, use [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html).
-Open loopMIDI and click on the plus sign. Select that midi port you just created, and select it in [Hairless MIDI<->Serial Bridge](https://projectgus.github.io/hairless-midiserial/)'s MIDI In dropdown. You can now select that output port in your midi software.
+Open loopMIDI and click on the plus sign. Select that midi port you just created, and select it in [Hairless MIDI<->Serial Bridge](https://projectgus.github.io/hairless-midiserial/)'s MIDI In dropdown. You can now select that output port in your midi software. (If you don't have one, go to [Signal](https://signal.vercel.app/edit), click on Settings, and then midi. Now select the output device you created, and click Ok. You can open midis with the File dropdown. Click the play button to start playback.)
 
 ![midiloop](https://i.ibb.co/CBfkc5s/s.jpg)
 
