@@ -1,5 +1,6 @@
 # arduino-midi-player
 Plays a single note from a midi serial input.
+Currently working on a version for boards that have 3 or more timers.
 
 ## Getting Started
 ### Software
