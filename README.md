@@ -31,5 +31,9 @@ Changing the audio out pin:
 
 Find the line `#define speakerPin 3` and change the three to your desired output pin, that [supports pwm](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/). 
 
+Changing the LED Status Pin
+
+Find the line `define ledPin 13` and change the thirten to your desired output pin. (Pin 13 is equal to LED_BUILTIN)
+
 ## Questions?
 Feel free to ask me!
