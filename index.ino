@@ -1,13 +1,11 @@
 #define MIDITRK 1
 #define speakerPin 3
+#define ledPin 13
 
 #include <MIDI.h>
 MIDI_CREATE_DEFAULT_INSTANCE();
 
-const int ledPin = 13;
 int currentNote = 0;
-
-#define MIDITRK 2
 
 void handleNoteOn(byte channel, byte note, byte velocity) {
   digitalWrite(ledPin, HIGH);
